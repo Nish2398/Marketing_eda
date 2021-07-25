@@ -11,7 +11,7 @@
 
 Analyzing the customer data of a fictitious e-commerce company to understand the reason behind the failure of recent marketing campaigns and to come up with suggestions on improving the same. A personal project done in part to practice the skils learnt in a Coursera guided project and also to develop a better business acumen.
 
-The project is based on the following Dataset task by Jack Doud on Kaggle  https://www.kaggle.com/jackdaoud/marketing-data/tasks?taskId=2986
+The project is based on the following Dataset task on Kaggle:  https://www.kaggle.com/jackdaoud/marketing-data/tasks?taskId=2986
 
 
 ## Dependancies
